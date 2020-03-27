@@ -1,0 +1,7 @@
+C:\Users\Tyler Bain\source\repos\StudentDB\obj\Debug\StudentDB.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Bain\source\repos\StudentDB\bin\Debug\StudentDB.exe.config
+C:\Users\Tyler Bain\source\repos\StudentDB\bin\Debug\StudentDB.exe
+C:\Users\Tyler Bain\source\repos\StudentDB\bin\Debug\StudentDB.pdb
+C:\Users\Tyler Bain\source\repos\StudentDB\obj\Debug\StudentDB.exe
+C:\Users\Tyler Bain\source\repos\StudentDB\obj\Debug\StudentDB.pdb
+C:\Users\Tyler Bain\source\repos\StudentDB\obj\Debug\StudentDB.csprojAssemblyReference.cache

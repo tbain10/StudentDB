@@ -1,0 +1,64 @@
+**** Student Data ****
+Student ID: 1
+First name: Alice
+Last name : Anderson
+Email Addr: aanderson@uw.edu
+Enrolled  : 1/1/2011 12:00:00 AM
+Freshman
+3.1
+**** Student Data ****
+Student ID: 2
+First name: Bob
+Last name : Bradshaw
+Email Addr: bbradshaw@uw.edu
+Enrolled  : 2/2/2012 12:00:00 AM
+Dr. Sam Chung
+12222.99
+**** Student Data ****
+Student ID: 3
+First name: Chuck
+Last name : Costerella
+Email Addr: ccostarec@uw.edu
+Enrolled  : 3/3/2013 12:00:00 AM
+Sophomore
+3.3
+**** Student Data ****
+Student ID: 4
+First name: David
+Last name : Dawn
+Email Addr: ddawn@uw.edu
+Enrolled  : 4/4/2014 12:00:00 AM
+Dr. Dwight Schrute
+14444.99
+**** Student Data ****
+Student ID: 5
+First name: Ellie
+Last name : Emmerson
+Email Addr: eemmerson@uw.edu
+Enrolled  : 5/5/2015 12:00:00 AM
+Junior
+3.5
+**** Student Data ****
+Student ID: 6
+First name: Frank
+Last name : Foccia
+Email Addr: ffoccia@uw.edu
+Enrolled  : 6/6/2016 12:00:00 AM
+Mr. Foccia
+16666.99
+**** Student Data ****
+Student ID: 7
+First name: Gary
+Last name : Glamorous
+Email Addr: gglamorous@uw.edu
+Enrolled  : 7/7/2017 12:00:00 AM
+Senior
+3.7
+**** Student Data ****
+Student ID: 8
+First name: Harry
+Last name : Henderson
+Email Addr: hhenderson@uw.edu
+Enrolled  : 8/8/2018 12:00:00 AM
+Dr. Hendersons
+18888.99

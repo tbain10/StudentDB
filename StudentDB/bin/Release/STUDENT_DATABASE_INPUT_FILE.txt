@@ -1,0 +1,56 @@
+1
+Alice
+Anderson
+aanderson@uw.edu
+1/1/2011
+Freshman
+3.1
+2
+Bob
+Bradshaw
+bbradshaw@uw.edu
+2/2/2012
+Dr. Sam Chung
+12222.99
+3
+Chuck
+Costerella
+ccostarec@uw.edu
+3/3/2013
+Sophomore
+3.3
+4
+David
+Dawn
+ddawn@uw.edu
+4/4/2014
+Dr. Dwight Schrute
+14444.99
+5
+Ellie
+Emmerson
+eemmerson@uw.edu
+5/5/2015
+Junior
+3.5
+6
+Frank
+Foccia
+ffoccia@uw.edu
+6/6/2016
+Mr. Foccia
+16666.99
+7
+Gary
+Glamorous
+gglamorous@uw.edu
+7/7/2017
+Senior
+3.7
+8
+Harry
+Henderson
+hhenderson@uw.edu
+8/8/2018
+Dr. Henderson
+18888.99
